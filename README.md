@@ -4,7 +4,6 @@ github explorer é uma aplicação feita para buscar e armazenar repositórios d
 
 ## tecnologias utilizadas:
 
-</br>
 
 ### -ReactJS
 ### - typescript
