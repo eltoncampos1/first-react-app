@@ -1,8 +1,8 @@
 # Github Explorer
 
-github explorer é uma aplicação feita para buscar e armazenar repositórios do github.
+It's a github users finder.
 
-## tecnologias utilizadas:
+## tecnologies:
 
 
 ### - ReactJS
